@@ -13,7 +13,6 @@ This project was built to understand the internals of HTTP and TCP, following **
 - 📦 **Chunked Transfer Encoding** support (streamed responses)
 - 🖼️ **Binary data support** — serves images, videos, etc.
 - 📝 **Request parsing** and **response generation** from scratch
-- 🗂️ Simple **static file serving**
 
 ---
 
